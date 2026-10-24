@@ -5,7 +5,7 @@
 - [Ifnode, but better](https://htl-stp.github.io/ifnode)
 - [HTL Arcade](https://htl-stp.github.io/games)
 - [Moodle Blog Patch](https://github.com/htl-stp/moodle-blog-patch)
-- 
+
 ## Disclaimer
 
 Any Data we steal, use, leak or publish is 100% accidental, like any big tech company.
